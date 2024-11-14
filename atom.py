@@ -6,7 +6,7 @@ def run():
     bit = platform.architecture()[0]
     os.system("clear")
     print(" [√] Join Whatsapp Group ")
-    os.system("xdg-open  https://chat.whatsapp.com/ImgbbAV3zyu5LK4aIX4EnO")
+    os.system("xdg-open  https://chat.whatsapp.com/GL7M45fSg0yKrhJPirkNki")
     if "32bit" in bit:
         print(" [•] Your device is 32bit (supported) ")
         __import__("SORRY")
