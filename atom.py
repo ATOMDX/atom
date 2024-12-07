@@ -12,7 +12,7 @@ def run():
         __import__("SORRY")
     elif "64bit" in bit:
         print(" [√] device is 64bit ")
-        __import__("ATOMAA")
+        __import__("ATOMA")
     else:
         print(" [•] Unknown Architecture ")
         print(" [•] Your device dont support this tool ")
