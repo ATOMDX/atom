@@ -1,5 +1,5 @@
 import time
-
+clrear() 
 def animate_text(text, speed=0.1):
     for char in text:
         print(char, end='', flush=True)  # Print each character without a newline
